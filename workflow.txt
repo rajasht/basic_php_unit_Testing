@@ -1,0 +1,25 @@
+This is the Basic Php Unit Testing Project Example.
+
+Steps:
+
+Create a Folder anywhere you want and then goto into it and open this folder in terminal.
+Now Run the command given below to make a php unit testing project in your local machine
+
+==> composer require phpunit/phpunit --dev
+
+It Will create a two files (composer.json, composer.lock) and a folder (vendor).
+
+Now goto extensions of VS code and install "better phpUnit" by calebporzio.
+
+Now restart the VS Code.
+
+Now press Ctrl+T , and type there ">better PHPUnit:run" or set the shortkut key for the same 
+by going into setting and edit shortcut for this command ( i made that ctrl+k).
+
+Now Create a file (phpunit.xml) and write the basic testing output format there.
+
+Now Create a file firstTest.php inside the folders tests/unit afresh.
+
+Write your actual testcode there and run better phpUnit(or press ctrl+k).
+
+We can run test by the command "vendor/bin/phpunit" also.

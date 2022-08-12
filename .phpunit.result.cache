@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Warning":6,"FirstTest::test_addition_of_two_numbers":3,"FirstTest::addition_of_two_numbers":3},"times":{"Warning":0.001,"FirstTest::test_addition_of_two_numbers":0.001,"FirstTest::addition_of_two_numbers":0.002}}
